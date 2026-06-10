@@ -16,8 +16,9 @@ Data Analyst Intern - E.ON next UK (October 2023 - September 2023)
 - Developing a Study Area Booking System for University of Birmingham - 3rd Year
 
 ### Data Science Projects
-- Building a predictive model for Housing Prices - [See the project!](https://github.com/hadibeitlefteh/portfolio/tree/9778a5d57a350582a309abf686035db88b0aacf6/House%20Price%20Prediction)
-- Analysis of the Gender-Age Relationship Across Different Marathon Distances - [See the project!](https://github.com/hadibeitlefteh/portfolio/tree/9778a5d57a350582a309abf686035db88b0aacf6/Analysis%20of%20the%20Gender-Age%20Relationship%20Across%20Different%20Marathon%20Distances)
+- Building a predictive model for Housing Prices - [See the project!](https://github.com/hadi-beitlefteh/portfolio/tree/07f44829300071ae5f5389e13ea56abd87cce917/House%20Price%20Prediction)
+- Analysis of the Gender-Age Relationship Across Different Marathon Distances - [See the project!](https://github.com/hadi-beitlefteh/portfolio/tree/07f44829300071ae5f5389e13ea56abd87cce917/Analysis%20of%20the%20Gender-Age%20Relationship%20Across%20Different%20Marathon%20Distances)
+- Analysis of various salaries and creating a predictive model for predicting salaries - [See the project!](https://github.com/hadi-beitlefteh/portfolio/tree/07f44829300071ae5f5389e13ea56abd87cce917/Salary%20Analysis%20and%20Prediction)
 
 ### Software Development Skills
 - Programming Languages: Python (Django), SQL, Dart (Flutter) and more
