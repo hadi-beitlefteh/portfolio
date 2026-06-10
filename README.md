@@ -1,10 +1,10 @@
-# Computer Science Graduate
+# Junior Data Scientist
 
 ### Education
 BSc Computer Science with Honours, University of Birmingham - 4.7 GPA
 
 ### Work Experience
-Data Analyst Intern - E.ON next UK (June 2023 - September 2023)
+Data Analyst Intern - E.ON next UK (October 2023 - September 2023)
 - Conducted data cleaning and transformation on large energy consumption datasets using Python (Pandas, NumPy) and SQL, ensuring data accuracy and consistency for analysis.
 - Identified trends and patterns in customer energy usage with Power BI and Python (Matplotlib, Seaborn), contributing to energy efficiency improvements and sustainable solutions.
 - Developed and maintained dashboards and reports using Jupyter Notebook, Power BI, and SQL, providing insights to internal stakeholders.
